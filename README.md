@@ -1,1 +1,1 @@
-# patika.com-binarysearch
+# patika.com-binaryse
